@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **making a fully responsive website using HTML5, CSS3 and JAVASCRIPT**
+- 🔭 I’m currently working on **making a fully Responsive Website using HTML5, CSS3 and Javascript**
 
 - 🌱 I’m currently learning **Node.js, MangoDB , React.js**
 
