@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js, MangoDB , React.js**
 
-- 💬 Ask me about **C , Python, HTML5, CSS3, Javascript, MATLAB**
+- 💬 Ask me about **C , Python, HTML5, CSS3, Javascript**
 
 - 📫 How to reach me **anitajain0252@gmail.com**
 
